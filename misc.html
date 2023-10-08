@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Miscellany"
+description: ""
+header-img: "img/about-bg-walle.jpg"
+sidebar: false
+---
+
+<div class="en post-container">
+    {% capture misc %}{% include misc/misc.md %}{% endcapture %}
+    {{ misc | markdownify }}
+</div>

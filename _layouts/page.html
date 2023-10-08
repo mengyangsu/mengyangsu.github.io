@@ -8,7 +8,7 @@ layout: default
 <!-- Main Content -->
 <div class="container">
   <div class="row">
-    {% if site.sidebar == false %}
+    {% if site.sidebar == false or page.sidebar == false %}
     <!-- NO SIDEBAR -->
     <!-- PostList Container -->
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1
@@ -19,10 +19,10 @@ layout: default
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1
       sidebar-container">
       <!-- Featured Tags -->
-      {% include featured-tags.html %}
+      <!-- {% include featured-tags.html %} -->
 
       <!-- Friends Blog -->
-      {% include friends.html %}
+      <!-- {% include friends.html %} -->
     </div>
     {% else %}
 
@@ -53,8 +53,8 @@ layout: default
 
 {% if site.page-mathjax %}
 <!-- Add support for Mathjax by Voleking-->
-<!-- If you want to see formulars well in post preview, Maybe you should add this.-->
-<!-- However, most of the time formulars may not appear in the post preview, you can delete it.-->
+<!-- If you want to see formulas well in post preview, Maybe you should add this.-->
+<!-- However, most of the time formulas may not appear in the post preview, you can delete it.-->
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     TeX: {

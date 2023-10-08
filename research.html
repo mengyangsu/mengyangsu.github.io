@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Research"
+description: ""
+header-img: "img/yellow-upper.jpg"
+sidebar: false
+---
+
+<div class="en post-container">
+    {% capture research %}{% include research/research.md %}{% endcapture %}
+    {{ research | markdownify }}
+</div>

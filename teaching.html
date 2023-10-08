@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Teaching"
+description: ""
+header-img: "img/bg-little-universe.jpg"
+sidebar: false
+---
+
+<div class="en post-container">
+    {% capture misc %}{% include teaching/teaching.md %}{% endcapture %}
+    {{ misc | markdownify }}
+</div>
