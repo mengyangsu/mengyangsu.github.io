@@ -1,11 +1,11 @@
 # Site settings
-title: Junjie Ren
-SEOTitle: Junjie Ren | 任俊杰
-header-img: img/sky.jpg
-email: junjie.ren@outlook.com
+title: Mengyang SU
+SEOTitle: Mengyang SU | 苏孟阳
+header-img: img/bricks.jpg
+email: su_mengyang@u.nus.edu
 description: 
-keyword: "Junjie Ren, 任俊杰, econ, economics, behavioral economics, experimental economics, NUS"
-url: "https://junjieren.com"              # your host, for absolute URL
+keyword: "Mengyang SU, 苏孟阳, econ, economics, digital economy, applied theory, NUS"
+url: "https://mengyangsu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -16,10 +16,10 @@ future: true
 RSS: false
 weibo_username:     
 zhihu_username:     
-github_username:    junjie-ren
+github_username:    mengyangsu
 twitter_username:   
-facebook_username:  the.renjunjie
-linkedin_username:  junjie-ren-517559233 #firstname-lastname-idxxxx
+facebook_username:  the.sumengyang
+linkedin_username:  mengyang-su-3b185613b #firstname-lastname-idxxxx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -66,7 +66,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: junjieren
+disqus_username: mengyangsu
 
 # Netease settings
 netease_comment: false
@@ -77,7 +77,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "" # Format: UA-xxxxxx-xx
-ga_domain: junjieren.com
+ga_domain: 
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -99,8 +99,9 @@ page-mathjax: true
 links: [
     {
         title: "My NUS webpage",
-        href: "https://fass.nus.edu.sg/ecs/people/ren-junjie/"
-    },{
+        href: "https://fass.nus.edu.sg/ecs/people/su-mengyang/"
+    },
+    {
         title: "NUS Economics Department",
         href: "https://fass.nus.edu.sg/ecs/"
     }

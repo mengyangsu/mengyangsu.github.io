@@ -1,10 +1,15 @@
-### Co-lecturer
+### Teaching Assistant  
+**National University of Singapore**  
 
-Math camp for PhD students in Economics, Summer 2023, National University of Singapore
-- Topics covered: Calculus, optimization, and difference and differential equations
+1. Econometrics II (Undergraduate), Spring 2021/2022, Fall & Spring 2022/2023,  
+*Won Graduate Student Teaching Award*  
 
-### Teaching Assistant
+2. Industrial Organization (Undergraduate) Fall, 2020/2021  
 
-Econometrics I (Undergraduate), Fall & Spring 2021/2022, Spring 2022/2023, National University of Singapore
+Please see my teaching evaluation report [here]({{ site.baseurl }}/pdf/teachingevaluation.pdf). 
 
-Behavioral Economics (Undergraduate), Spring 2020/2021, National University of Singapore
+### Economics Instructor
+**Beijing 35th Middle School (International Department)**  
+
+Teaching economics courses for year 1 and year 3 high school students, Apr. 2018 -- June 2018  
+

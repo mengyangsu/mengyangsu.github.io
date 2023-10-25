@@ -1699,3 +1699,9 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+
+/* add to you stylesheet */
+.img-left {
+  float: left;
+  margin-right: 1em;
+}
