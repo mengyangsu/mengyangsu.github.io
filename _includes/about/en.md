@@ -16,5 +16,3 @@ Before pursuing my Ph.D., I earned my master's degree in applied economics at [G
 During my undergraduate years, I studied environmental economics and management at [Renmin University of China](https://www.ruc.edu.cn/).
 
 For more details, see my CV [here]({{ site.baseurl }}/pdf/myCV_full.pdf).  
-
-Email: su_mengyang@u.nus.edu
