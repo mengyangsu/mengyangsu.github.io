@@ -2,7 +2,7 @@
 <!-- ![image](/img/profile_pic.jpg){: style="float: left; margin-right: 1em;"} -->
 <div>
     <div style="float: left; margin-right: 1em;">
-    <img width="250" src="/img/profile_pic.jpg" alt="" style="margin-top: 0;">
+    <img width="250" src="/img/profile_pic.JPG" alt="" style="margin-top: 0;">
     </div>
     <div>
     <!-- <h2>Some title text</h2>
